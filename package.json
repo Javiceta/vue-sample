@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Javiceta/vue-sample/issues"
   },
-  "homepage": "https://github.com/Javiceta/vue-sample#readme"
+  "homepage": "https://github.com/Javiceta/vue-sample#readme",
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
 }
