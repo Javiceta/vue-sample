@@ -18,6 +18,14 @@
   },
   "homepage": "https://github.com/Javiceta/vue-sample#readme",
   "dependencies": {
-    "vue": "^2.6.10"
+    "core-js": "^2.6.5",
+    "vue": "^2.6.10",
+    "vue-hot-reload-api": "^2.3.3"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^3.0.0",
+    "pug": "^2.0.3",
+    "typescript": "^3.4.4",
+    "vue-template-compiler": "^2.6.10"
   }
 }
